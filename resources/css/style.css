@@ -1,0 +1,21 @@
+body{
+    background: black;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+    font-family: Verdana;
+    font-weight:normal;
+}
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+h3{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+.ex{
+    text-align: right;
+}
